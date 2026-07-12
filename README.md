@@ -16,7 +16,6 @@ It was developed over **15 days** with a strong focus on **component-based archi
 * 📦 Context API for State Management
 
 ---
-
 ## 🛠️ Tech Stack
 
 * React.js
